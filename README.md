@@ -36,7 +36,7 @@ Start the development server
 
 NOTE: 
 
-Copy the .env.example and rename it to .env before starting the development server.
+Copy the .env.example and rename it to .env before starting the development server and generate app key.
 
 
 HAPPY CODING!!
